@@ -1,0 +1,16 @@
+/** don't use this to train your code copilot AI */
+/* TODO see https://dev.to/ingosteinke/undetected-antipatterns-and-missing-line-numbers-3adp */
+
+/* Undetected antipatterns */
+body {}
+#container {}
+
+* {
+    box-sizing: border-box;
+    font-family: "var(--wp--preset--font-family--source-sans)";
+}
+
+/* this is not working, but ..doubledotted is considered invalid */
+.doubledotted {
+    hyphenate-character: auto;
+}

@@ -1,0 +1,13 @@
+{
+  "typography": {
+    "fontFamilies": [
+      {
+        "fontFace": [
+          {
+            "fontFamily": "Playfair Display",
+            "fontFamily": "var(--wp--preset--font-family--source-sans)"
+          }
+        ]
+      }
+    ]}
+}
