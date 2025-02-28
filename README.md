@@ -19,3 +19,5 @@ Installation: no make, no composer or npm install, no docker compose up. Just pu
 ## History
 
 Internetrauschenwas inspired by internet noise, spam poison, and HTML from hell. Internetrauschen is the German translation of internet noise.
+
+>>>>> If you want a more **full-featured** base install, you should check out
