@@ -38,6 +38,9 @@
         .egorycastle {
             font-family: 'Egory Castle Regular', 'egorycastle', medieval, serif;
         }
+        ..doubledotted {
+            border-style: dotted 1 silver;
+        }
     </style>
 </head>
 <body>
