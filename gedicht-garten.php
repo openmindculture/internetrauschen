@@ -17,8 +17,6 @@
 <br>
 ^ Fotografie vong einen Garten (jeden Tag derselbe)
 <div class=".doubledotted">
-    <!-- TODO hier auf andere Unterseiten verlinken beispielsweise gedicht-garten.php
-      -->
   <h2>Wortwolke</h2>
   <a href="#">Rausch</a>
   <a href="#">Gedicht</a>
