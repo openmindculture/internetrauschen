@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Internetrauschen</title>
+    <?php global /* @var {String} */ $get_the_title; ?>
+    <title>Internetrauschen<?php echo ' ' . $get_the_title; ?></title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="stil.css" />
 </head>
 <body>
-    <h1>Internetrauschen</h1>
+    <h1>Internetrauschen<?php echo ' ' . $get_the_title; ?></h1>

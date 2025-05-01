@@ -1,3 +1,5 @@
+<?php global /* @var {String} */ $get_the_title; ?>
+<?php $get_the_title = 'Dienstag — Gleis — Dreieck'; ?>
 <?php include_once('includes/header.php') ?>
   <p>Diese Seite ist unter Konstruktion. Hier passiert bald was!/p>
 <h2>Gedicht (Fragment)</h2>
@@ -12,7 +14,7 @@
   vong Ende her<br>
   macht es keinen Unterschied mehr.<br>
     </strong></p>
-<h3 class="egorycastle">Bild des Diensttages</h3>
+<h3 class="egorycastle">Bild des Dienstendes</h3>
 <img alt="Fotografie vong einen Gleis am Ende" src="img/berlin_gleisdreieck_lost_place_railroad.jpg" width="960" height="540"/></img>
 <br>
 ^ Fotografie vong einen Gleis am Ende in Berlin
