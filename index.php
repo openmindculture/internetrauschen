@@ -25,4 +25,5 @@
   <a href="#">umlautlos</a>
   <a href="#">Internetrauschen</a>
 </div>
+&lt;?php include_once('includes/footer.php') ?gt;
 <?php include_once('includes/footer.php') ?>
