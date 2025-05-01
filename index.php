@@ -15,7 +15,7 @@
   darbiete.<br>
     </strong></p>
 <h3 class="egorycastle">Bild des Tages</h3>
-<img alt="Fotografie verlorenen Ortes" src="img/lost_place_wikimedia_commons.jpg.jpg" width="960" height="540"/></img>
+<img alt="Fotografie verlorenen Ortes" src="img/lost_place_wikimedia_commons.jpg" width="960" height="540"/></img>
 <br>
 ^ Fotografie verlorenenen Ortes (rechtefrei vong Wikimedie Commons)
     <div class="doppelgestrichen .doubledotted">
