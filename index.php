@@ -4,7 +4,7 @@
 <p><strong>
   Wie ich Montage beton'<br>
   im Cafe ohne Estrich<br>
-  versmasslos vermeessen<br>
+  versmasslos vermessen<br>
   umlautlos umherschleiche<br>
   markovartige Worte an Satzenden setze<br>
   um eine Buchstabenflut zur Wortwelle,<br>
