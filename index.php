@@ -1,16 +1,18 @@
 <?php include_once('includes/header.php') ?>
-  <p>Umlautlose, Internetrauschende, Internetnoise-inspirierte, interaktive Installation, die auch als Weblog oder (Maga-) Zine gelesen werden kann.</p>
-<h2>Gedicht (Fragment)</h2>
+  <p>Internetrauschen.de ist eine umlautlose, internetrauschende, Internetnoise-inspirierte, interaktive Installation, die auch als Weblog oder (Maga-) Zine gelesen werden kann. Internetrauschend ist kontinuierlich unter Konstruktion.</p>
+<p>Unter Rauschen im Internet versteht sich im eigentlichen Sinne eine ungewollter Schaden oder Verrauschung, die das Niveau der Internetverbindung vielleicht verschlechtern. Internetrauschen kann durch verschiedene Faktoren verursacht werden, wie beispielsweise Behinderungen aus der Umgebung oder Probleme mit der Hardware. Bei uns  bedeutet Internetrauschen aber eine gewollte Kunstform. Seht selbst,</p>
+
 <p><strong>
-  Wie ich Montage beton'<br>
-  im Cafe ohne Estrich<br>
-  versmasslos vermessen<br>
-  umlautlos umherschleiche<br>
-  markovartige Worte an Satzenden setze<br>
-  um eine Buchstabenflut zur Wortwelle,<br>
-  verbalen Montageschaum umschmiere<br>
-  vong Anfang an<br>
-  das kannst du dir kaum vorstellen kannst.<br>
+  ...wie ich das Internet berausch'<br>
+  den Wortfluss belauscht<br>
+  kunstunfertig unfertige Fragmente<br>
+  mithin Texttteile Teile und am Ende<br>
+  Flaschen wie voll Honig<br>
+  Gruben wie mit Teer<br>
+  den Datenkraken<br>
+  echokammervergiftete<br>
+  Satzhappen <br>
+  darbiete.<br>
     </strong></p>
 <h3 class="egorycastle">Bild des Tages</h3>
 <img alt="Fotografie vong einen Garten" src="img/garden_photograph.jpg" width="960" height="540"/></img>
