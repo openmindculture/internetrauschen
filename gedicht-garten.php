@@ -1,3 +1,5 @@
+<?php global /* @var {String} */ $get_the_title; ?>
+<?php $get_the_title = 'Geicht — Garten — Montag'; ?>
 <?php include_once('includes/header.php') ?>
   <p>Umlautlose, Internetrauschende, Internetnoise-inspirierte, interaktive Installation, die auch als Weblog oder (Maga-) Zine gelesen werden kann.</p>
 <h2>Gedicht (Fragment)</h2>
