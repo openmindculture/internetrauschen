@@ -1,7 +1,7 @@
 <?php include_once('includes/header.php') ?>
   <p>Umlautlose, Internetrauschende, Internetnoise-inspirierte, interaktive Installation, die auch als Weblog oder (Maga-) Zine gelesen werden kann.</p>
 <h2>Gedicht (Fragment)</h2>
-<p>
+<p><strong>
   Wie ich Montage beton'<br>
   im Cafe ohne Estrich<br>
   versmasslos vermeessen<br>
@@ -11,7 +11,7 @@
   verbalen Montageschaum umschmiere<br>
   vong Anfang an<br>
   das kannst du dir kaum vorstellen kannst.<br>
-</p>
+    </strong></p>
 <h3 class="egorycastle">Bild des Tages</h3>
 <img alt="Fotografie vong einen Garten" src="img/garden_photograph.jpg" width="960" height="540"/></img>
 <br>
