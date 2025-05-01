@@ -21,10 +21,10 @@
       -->
   <h2>Wortwolke</h2>
   <a href="#">Rausch</a>
-  <a href="#">Gedicht</a>
+    <a href="/gedicht-garten.php">Gedicht — Garten</a>
   <a href="#">Worte</a>
   <a href="#">Montage</a>
-  <a href="#">umlautlos</a>
+    <a href="/dienstag-gleis-dreieck.php">Dienstag — Gleis — Dreieck</a>
   <a href="#">Internetrauschen</a>
 </div>
 &lt;?php include_once('includes/footer.php') &gt;
