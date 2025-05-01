@@ -16,16 +16,19 @@
 <img alt="Fotografie vong einen Garten" src="img/garden_photograph.jpg" width="960" height="540"/></img>
 <br>
 ^ Fotografie vong einen Garten (jeden Tag derselbe)
-<div class=".doubledotted">
+    <div class="doppelgestrichen .doubledotted">
     <!-- TODO hier auf andere Unterseiten verlinken beispielsweise gedicht-garten.php
       -->
   <h2>Wortwolke</h2>
-  <a href="#">Rausch</a>
-    <a href="/gedicht-garten.php">Gedicht — Garten</a>
-  <a href="#">Worte</a>
-  <a href="#">Montage</a>
-    <a href="/dienstag-gleis-dreieck.php">Dienstag — Gleis — Dreieck</a>
-  <a href="#">Internetrauschen</a>
+    <ul>
+        <li><a href="#">Rausch</a></li>
+        <li><a href="/gedicht-garten.php">Gedicht — Garten</a></li>
+        <li><a href="#">Worte</a></li>
+        <li><a href="#">Montage</a></li>
+        <li><a href="/dienstag-gleis-dreieck.php">Dienstag — Gleis — Dreieck</a></li>
+        <li><a href="#">Internetrauschen</a></li>
+    </ul>
+
 </div>
 &lt;?php include_once('includes/footer.php') &gt;
 <?php include_once('includes/footer.php') ?>

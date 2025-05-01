@@ -16,14 +16,17 @@
 <img alt="Fotografie vong einen Gleis am Ende" src="img/garden_photograph.jpg" width="960" height="540"/></img>
 <br>
 ^ Fotografie vong einen Gleis am Ende in Berlin
-<div class=".doubledotted">
+    <div class="doppelgestrichen .doubledotted">
   <h2>Wortwolke</h2>
-  <a href="#">Dienst</a>
-  <a href="/gedicht-garten.php">Gedicht — Garten</a>
-  <a href="#">Enstation</a>
-  <a href="#">Gleis</a>
-  <a href="#">Dreieck</a>
-  <a href="https://www.internetrauschen.de/">Internetrauschen</a>
+        <ul>
+            <li><a href="#">Dienst</a></li>
+            <li><a href="/gedicht-garten.php">Gedicht — Garten</a></li>
+            <li><a href="#">Enstation</a></li>
+            <li><a href="#">Gleis</a></li>
+            <li><a href="#">Dreieck</a></li>
+            <li><a href="https://www.internetrauschen.de/">Internetrauschen</a>      </li>
+        </ul>
+P.S. Wortwolkenstil ungetestet
 </div>
 &lt;?php include_once('includes/footer.php') &gt;
 <?php include_once('includes/footer.php') ?>

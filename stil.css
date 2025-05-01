@@ -40,6 +40,15 @@ img {
     max-width: 100%;
     height: auto;
 }
+.doppelgestrichen {
+    border-style: dotted 1 silver;
+    padding: 1rem;
+}
+.doppelgestrichen ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
 ..doubledotted {
     border-style: dotted 1 silver;
 }

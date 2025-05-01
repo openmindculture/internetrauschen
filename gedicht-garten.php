@@ -16,14 +16,16 @@
 <img alt="Fotografie vong einen Garten" src="img/garden_photograph.jpg" width="960" height="540"/></img>
 <br>
 ^ Fotografie vong einen Garten (jeden Tag derselbe)
-<div class=".doubledotted">
+    <div class="doppelgestrichen .doubledotted">
   <h2>Wortwolke</h2>
-  <a href="#">Rausch</a>
-  <a href="#">Gedicht</a>
-  <a href="#">Worte</a>
-  <a href="#">Montage</a>
-  <a href="#">umlautlos</a>
-  <a href="#">Internetrauschen</a>
+<ul>
+    <li><a href="#">Rausch</a></li>
+    <li><a href="#">Gedicht</a></li>
+    <li><a href="#">Worte</a></li>
+    <li><a href="#">Montage</a></li>
+    <li><a href="#">umlautlos</a></li>
+    <li><a href="#">Internetrauschen</a></li>
+</ul>
 </div>
 &lt;?php include_once('includes/footer.php') &gt;
 <?php include_once('includes/footer.php') ?>
