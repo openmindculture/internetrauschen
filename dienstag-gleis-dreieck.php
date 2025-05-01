@@ -13,7 +13,7 @@
   macht es keinen Unterschied mehr.<br>
     </strong></p>
 <h3 class="egorycastle">Bild des Diensttages</h3>
-<img alt="Fotografie vong einen Gleis am Ende" src="img/garden_photograph.jpg" width="960" height="540"/></img>
+<img alt="Fotografie vong einen Gleis am Ende" src="img/berlin_gleisdreieck_lost_place_railroad.jpg" width="960" height="540"/></img>
 <br>
 ^ Fotografie vong einen Gleis am Ende in Berlin
     <div class="doppelgestrichen .doubledotted">
