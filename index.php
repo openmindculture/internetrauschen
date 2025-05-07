@@ -1,6 +1,7 @@
 <?php include_once('includes/header.php') ?>
   <p>Internetrauschen.de ist eine umlautlose, internetrauschende, Internetnoise-inspirierte, interaktive Installation, die auch als Weblog oder (Maga-) Zine gelesen werden kann. Internetrauschend ist kontinuierlich unter Konstruktion.</p>
-<p>Unter Rauschen im Internet versteht sich im eigentlichen Sinne eine ungewollter Schaden oder Verrauschung, die das Niveau der Internetverbindung vielleicht verschlechtern. Internetrauschen kann durch verschiedene Faktoren verursacht werden, wie beispielsweise Behinderungen aus der Umgebung oder Probleme mit der Hardware. Bei uns  bedeutet Internetrauschen aber eine gewollte Kunstform. Seht selbst,</p>
+<h2>Rauschen, automatisches Schreiben und semirandomisierte Textkunst</h2>
+    <p>Unter <a href="https://de.wikipedia.org/wiki/Rauschen">Rauschen</a> im Internet versteht sich im eigentlichen Sinne meist ein ungewollter Schaden oder Verrauschung, die das Niveau der Internetverbindung vielleicht verschlechtern. Internetrauschen kann durch verschiedene Faktoren verursacht werden, wie beispielsweise Behinderungen aus der Umgebung oder Probleme mit der Hardware oder als Grundrauschen fehlerhafter oder unverlangter Datenpakete (Internet-Hintergrundgrauschen, <a href="https://en.wikipedia.org/wiki/Internet_background_noise">Internet Background Noise</a>). Rauschen nutzt aber auch, denn wenn es rauscht, wissen wir, dass Strom fliesst und das Ding funktioniert! Bei uns  bedeutet Internetrauschen eine gewollte und von Fundsachen und Zufallszahlen beeinflusste Kunstform. Internetrauschen als digitaler <a href="https://de.wikipedia.org/wiki/Dadaismus">Dadaismus</a> in der Tradtion von <a href="https://makeinternetnoise.com/">Internetnoise</a>, <a href="https://spampoison.com/">Spampoison</a> und anderen <a href="https://de.wikipedia.org/wiki/Teergrube_(Informationstechnik)">Teergruben-</a> und <a href="https://de.wikipedia.org/wiki/Honeypot">Honigtopf</a>-Projekten. Seht selbst,</p>
 
 <p><strong>
   ...wie ich das Internet berausch'<br>
@@ -17,7 +18,7 @@
 <h3 class="egorycastle">Bild des Tages</h3>
 <img alt="Fotografie verlorenen Ortes" src="img/lost_place_wikimedia_commons.jpg" width="960" height="540"/></img>
 <br>
-^ Fotografie verlorenenen Ortes (rechtefrei vong Wikimedie Commons)
+^ Fotografie verlorenenen Ortes (rechtefrei vong Wikimedia Commons)
     <div class="doppelgestrichen .doubledotted">
     <!-- TODO hier auf andere Unterseiten verlinken beispielsweise gedicht-garten.php
       -->
