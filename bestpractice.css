@@ -23,9 +23,13 @@ body {}
 #container {}
 
 /**Ü TODO refactor */
-
+.doubledotted {
+    border: silver 1px dotted;
+    hyphenate-character: auto;
+}
 /* Undetected antipatterns */
 /* this is not working, but ..doubledotted is considered invalid */
-.doubledotted {
+..doubledotted {
+    border-style: silver 1x dotted;
     hyphenate-character: auto;
 }
