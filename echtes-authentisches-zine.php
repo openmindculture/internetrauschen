@@ -1,3 +1,6 @@
+<?php global /* @var {String} */ $get_the_title; ?>
+<?php $get_the_title = 'Echtes Authentisches Zin'; ?>
+<?php include_once('includes/header.php') ?>
 <h1>Echtes Authentisches Zine</h1>
 Berlin, Ende Mai 2025<br>
 <p>Internetrauschen wird echt zum authentischen Independent-Zine, um das mal so zu sagen.<br>
