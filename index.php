@@ -38,7 +38,7 @@
   <h2>Wortwolke</h2>
     <ul>
         <li><a href="/sozial-medial-profil-neurose.php">sozial—mediale Profilneurose</a></li>
-        <li><a href="/altbaucharme-brathering-urinstinkt.php">Altbaucharme</a></li>
+        <li><a href="/amerika-usa-ki.php">Amerikanische Produkte aus den USA</a></li>
         <li><a href="/gedicht-garten.php">Gedicht — Garten</a></li>
         <li><a href="/ki-schweine-schwall-slop-kontern.php">KI-Schwall-kontern</a></li>
         <li><a href="/arbeit-reise-tage.php">Montage</a></li>
