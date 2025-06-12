@@ -4,9 +4,9 @@ global $terms;
 $links = array();
 if (!empty($terms)) {
     foreach ($terms as $term) {
-        $termforurl = php_strip_whitespace($term);
+        $termforurl = str_replace(' ', '', $term);
         $termforquery = str_replace(' ', '%20', $term);
-        $links['direct'] = ['text' => "Direkt zu $term", 'url' => "https://$termforurl.com/"];
+        $links['direct'] = ['text' => "Direkt zu $term", 'url' => "https://" . $termforurl .".com/"];
         $links['ecosia'] = ['text' => "Mehr zu $term Ecosia", 'url' => "https://ecosia.org/search?q=$termforquery"];
         $links['google'] = ['text' => "$term googlen", 'url' => "https://google.com/search?q=$termforquery"];
         $links['wikipedia'] = ['text' => "$term bei Wikipedia", 'url' => "https://google.com/search?q=$termforquery"];
