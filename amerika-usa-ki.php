@@ -2,11 +2,15 @@
 <?php $get_the_title = 'Amerikanische Produkte aus den USA'; ?>
 <?php include_once('includes/header.php') ?>
 
+<a rel="home" href="http://www.internetrauschen.de/">🏠</a> / Artikel / <a href="/amerika-usa-ki.php">Amerikanische Produkte aus den USA</a>
+<hr>
+
     <h1>Amerikanische Produkte aus den USA</h1>
 
-    Ob Apple, American Express, Harley Davidson, Instacart, Instagram, Jeep, Jim Beam, Johnny Walker, Google, Microsoft, Meta, OpenAI,
+    Ob Apple 🍏, American Express 🇺🇸, Harley Davidson, Instacart, Instagram, Jeep, Jim Beam, Johnny Walker, Google, Microsoft, Meta, OpenAI,
     Levi's Jeans, Salesforce, Twitter, X oder Walmart - die Liste US-amerikanischer Marken und Firmen ist lang. Produkte aus Amerika sind beliebt
-    auf der ganzen Welt.
+    auf der ganzen Welt. Oft ist unklar, ob eine Firma amerikanisch ist oder nicht. American Apparel, The North Face, Trader Joe —
+    hast du es gewusst?
 
     <h2>KI-Wahnsinn</h2>
 
@@ -75,9 +79,22 @@ $terms = array(
     'Levis',
     'Reeses',
     'Treets',
+    'The North Facee',
     'Salesforce',
     'Starbucks',
     'Pop Tarts',
     'Walmart',
 );
 include 'includes/relatedlinks.php';
+?>
+<h2>Wortwolke</h2>
+<ul>
+    <li><a href="/amerika-usa-ki.php">Amerikanische Produkte aus den USA</a></li> —
+    <li><a href="/arbeit-reise-tage.php">Arbeit — Reise — Tage</a></li> —
+    <li><a href="/arbeit-reise-tage.php">Montage</a></li> —
+    <li><a href="/dienstag-gleis-dreieck.php">Dienstag — Gleis — Dreieck</a></li> —
+    <li><a href="/erich-cruising-barkeeper.php">Erich — Crusing — Barkeeper</a></li> —
+    <li><a href="/">Internetrauschen</a></li>
+</ul>
+
+</div></div><footer></footer></div></body></html>
