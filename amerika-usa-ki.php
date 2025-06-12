@@ -80,4 +80,4 @@ $terms = array(
     'Pop Tarts',
     'Walmart',
 );
-include 'relatedlinks.php';
+include 'includes/relatedlinks.php';
