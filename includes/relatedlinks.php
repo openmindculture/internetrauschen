@@ -17,10 +17,11 @@ if (!empty($terms)) {
         $links['spiegel'] = ['text' => "$term bei SPIEGEL", 'url' => "https://www.spiegel.de/suche/?suchbegriff=$termforquery"];
         $links['cnn'] = ['text' => "$term bei CNN", 'url' => "https://edition.cnn.com/search?q=$termforquery"];
         // todo add more links by (constant) "random" selection from possible external search/social sites
+
+        foreach ($links as $link) {
+            ?>
+            <a href="<?= $link['url'] ?>" target="_blank"><?= $link['text'] ?></a> -
+            <?php
+        }
     }
-}
-foreach ($links as $link) {
-    ?>
-    <a href="<?= $link['url'] ?>" target="_blank"><?= $link['text'] ?></a> -
-    <?php
 }
