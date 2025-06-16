@@ -20,7 +20,7 @@ Inhaltliche und technische Fehler sind vielleicht beabsichtigt. Alles ist ohne G
     <li>Tel. (+49) (0) 0 00 / 12 34 56 - 7</li>
 </ul>
 
-<form action="https://internetraushcen.de/<EMAIL>" method="POST" onSubmit="return ">
+<form action="#" method="POST" onSubmit="return ">
 <input type="hidden" name="form-name" value="contact" />
     <label for="name">Name:<input type="text" name="name" placeholder="Name" required></input></label><br>
     <label for="email">E-Mail:<input type="email" name="email" placeholder="E-Mail" required></input></label><br>
