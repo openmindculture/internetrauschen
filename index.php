@@ -28,10 +28,29 @@
 
 <p>Zur Abwwechslung male mal ein Bild oder fotografiere eine Fotografie. Alles schwarzweiss auf dieser Seite. Es folgt ein Beispiel.</p>
 
-<h3 class="egorycastle">Bild des Tages</h3>
+<h3 class="egorycastle">Ameisenhaufengesicht</h3>
 <img alt="Fotografie verlorenen Ortes" src="img/ameisenhaufengesicht.jpg" width="960" height="540"/></img>
 <br>
 ^ Fotografie verlorenenen Ortes (alle Bilder rechtefrei entweder selbst gemacht oder von Wikimedia Commons)
+
+<o></o><p>Als ob auf dem Bild ein Gesicht zu sehen sei, dachte ich, dabei ist es ein Foto eines kleinen Ameisenhaufens.
+<p>Sozusagen ein Ameisenhaufengesicht ...
+
+<g3><h3>Ameisenhaufengedicht</h3>
+
+    <p><strong>
+            ...wie ich das Gesicht sah<br>
+            auf dem Weg zu Fuss<br>
+            zwischen Platten des Gehwegs<br>
+            ausgegrabener Sand am Ende<br>
+            wie eine Nase steht<br>
+            und ein dunkles Auge, unbewegt,<br>
+            als ob es zum Schluss<br>
+            meiner Schritte behende<br>
+            sich hingelegt<br>
+            mich ansah.<br>
+        </strong></p>
+
     <div class="doppelgestrichen doppeltgestrichen .doubledotted">
         &lt;!-- TODO hier auf andere Unterseiten verlinken -->
 
