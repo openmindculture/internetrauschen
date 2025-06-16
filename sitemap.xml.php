@@ -1,0 +1,20 @@
+<?php ?><html><head><title>Internetrauschen Sitemap</title></head><body><pre><?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://internetrauschen.de/</loc></url>
+<url><loc>https://internetrauschen.de/altbaucharme-brathering-urinstinkt.php</loc></url>
+<url><loc>https://internetrauschen.de/amerika-usa-ki.php</loc></url>
+<url><loc>https://internetrauschen.de/abreit-reise-tage.php</loc></url>
+<url><loc>https://internetrauschen.de/banane-ja-und.php</loc></url>
+<url><loc>https://internetrauschen.de/dienstag-gleis-dreieck.php</loc></url>
+<url><loc>https://internetrauschen.de/echtes-authentisches-zine.php</loc></url>
+<url><loc>https://internetrauschen.de/erich-cruising-barkeeper.php</loc></url>
+<url><loc>https://internetrauschen.de/gedicht-garten.php</loc></url>
+<url><loc>https://internetrauschen.de/ki-schweine-schwall-slop-kontern.php</loc></url>
+<url><loc>https://internetrauschen.de/markov-ketten-satz-bau.php</loc></url>
+<url><loc>https://internetrauschen.de/sitemap.xml</loc></url>
+<url><loc>https://internetrauschen.de/sitemap.xml.php</loc></url>
+<url><loc>https://internetrauschen.de/sozial-medial-profil-neurose.php</loc></url>
+<url><loc>https://internetrauschen.de/spam-leiden-handeln.php</loc></url>
+<url><loc>https://internetrauschen.de/unwort-barrierearm-nachhaltig.php</loc></url>
+    <?php /* TODO add random content */ ?>
+</urlset></pre></body></html>

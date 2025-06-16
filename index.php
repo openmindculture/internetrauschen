@@ -63,7 +63,8 @@
         <li><a href="/ki-schweine-schwall-slop-kontern.php">KI-Schwall-kontern</a></li>
         <li><a href="/arbeit-reise-tage.php">Montage</a></li>
         <li><a href="/dienstag-gleis-dreieck.php">Dienstag — Gleis — Dreieck</a></li>
-        <li><a href="#">Internetrauschen</a></li>
+        <li><a href="https://internetrauschen.de/">Internetrauschen</a></li>
+        <li><a href="https://internetrauschen.de/sitemap.xml.php">Sitemap</a></li>
     </ul>
 
 </div>
