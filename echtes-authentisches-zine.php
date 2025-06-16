@@ -29,12 +29,20 @@ Hier ist ein Bild von einem Bleistift, einem Anspitzer und von dem Abrieb, der v
 <img alt="Fotografie von einem angespitzten Bleistift" src="img/bleistift-spitzer-abrieb.jpg" width="960" height="540"/></img>
 <br>
 <div class=".doubledotted"></div>
-<footer>Credits: Die Schriftart Adler ist unter der 1001Fonts Free For Commercial Use License (FFC) frei verwendbar. Die Schriftart Elizeth ExtraLight wurde von Blackletra und die Egory Castle von Seventh Imperium erworben.&lt;!-- TODO verlinken und ergänzen: --&gt; &lt;/footer&gt;</footer>
-<!-- auto-closing tag omission behavior of HTML parsing: --> <p class="outer"><p ="inner"> <!-- is equivalent to --> <p class="outer"></p><p class="inner"></p>
-<p class="outer"></p><p class="inner"></p>
-<!-- https://stackoverflow.com/questions/8814472/how-to-make-an-html-back-link -->
-<a href="javascript:history.back();return void(0);" title="an HTML back link">back <img src="" alt=""></img></a>
-<a href="#top" title="an HTML top link">an die Spitze (to the top)</a>
-&amp;lt;&lt;/body&gt;<br>
-&lt;/html&gt;qgit commit -am "add footer information WIP"<br>
-wq!
+<footer>Credits: Die Schriftart Adler ist unter der 1001Fonts Free For Commercial Use License (FFC) frei verwendbar. Die Schriftart Elizeth ExtraLight wurde von Blackletra und die Egory Castle von Seventh Imperium erworben.&lt;!--
+    <a href="https://internetrauschen.de/">geh heim</a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    Weitere Artikel:<ul><li>
+            <a href="amerika-usa-ki.php">Amerikanische Produkte aus den USA</a>
+        </li>
+        <li><a href="banane-ja-und.php">Banane, ja und?</a></li>
+        <li><a href="erich-cruising-barkeeper.php">Er und ich: Erich, der Barkeeper der Superyacht Bar</a></li>
+        <li><a href="File not found.">File not found.</a></li>
+        <li><a href="gedicht-garten.php">Geicht — Garten — Montag</a></li>
+        <li><a href="markov-ketten-satz-bau.php">Markovkettensatzbau</a></li>
+    </ul>
+    <br><br>&copy; 2025--&gt; <a href="https://internetrauschen.de/">"&gt;internetrauschen.de/</a></footer></body></html></html>
