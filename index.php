@@ -26,12 +26,8 @@
 
 <p>Internetrauschen.de ist ein literarischen Gift, dass nach Gegengift ruft, ein Aufruf, diesen Unfug zu beenden, Schlussstriche zu ziehen, KI zu streichen, Marketing zu minimieren und endlich wieder mehr sinnvolles zu tun — es sei denn, der Unsinn sei — wie hier — gewollt und Kunst. Unklarheit und Unsicherheit der Kunst sind gesund, auch Zweifel fristet ein unberechtigtes Schattendasein im Zeitalter des Halbwissens nach dem Motto "Fake it until you make it". Schade!</p>
 
-<p>Zur Abwwechslung male mal ein Bild oder fotografiere eine Fotografie. Alles schwarzweiss auf dieser Seite. Es folgt ein Beispiel.</p>
 
-<h3 class="egorycastle">Ameisenhaufengesicht</h3>
-<img alt="Fotografie verlorenen Ortes" src="img/ameisenhaufengesicht.jpg" width="960" height="540"/></img>
-<br>
-^ Fotografie verlorenenen Ortes (alle Bilder rechtefrei entweder selbst gemacht oder von Wikimedia Commons)
+
 
 <o></o><p>Als ob auf dem Bild ein Gesicht zu sehen sei, dachte ich, dabei ist es ein Foto eines kleinen Ameisenhaufens.
 <p>Sozusagen ein Ameisenhaufengesicht ...
@@ -50,6 +46,11 @@
             sich hingelegt<br>
             mich ansah.<br>
         </strong></p>
+
+    <h3 class="egorycastle">Ameisenhaufengesicht</h3>
+    <img alt="Fotografie verlorenen Ortes" src="img/ameisenhaufengesicht.jpg" width="960" height="540"/></img>
+    <br>
+    ^ Fotografie verlorenenen Ortes (alle Bilder rechtefrei entweder selbst gemacht oder von Wikimedia Commons)
 
     <div class="doppelgestrichen doppeltgestrichen .doubledotted">
         &lt;!-- TODO hier auf andere Unterseiten verlinken -->
