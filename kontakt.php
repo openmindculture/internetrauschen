@@ -16,6 +16,7 @@ Inhaltliche und technische Fehler sind vielleicht beabsichtigt. Alles ist ohne G
     <li>Honey Pot &lt;<a href="mailto:honey.pot@internetrauschen.de">honey.pot@internetrauschen.de</a>&gt;</li>
     <li>Tar Pit &lt;<a href="mailto:tar.pit@internetrauschen.de">tar.pit@internetrauschen.de</a>&gt;</li>
     <li>Tel. 12 34 56 78 - 9</li>
+    <li><a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A40688370&keywords=kontakt&origin=RICH_QUERY_SUGGESTION" target="_blank" rel="noopener">Kontakt bei LinkedIn</a></li>
 </ul>
 
 <form action="https://internetrauschen.de/kontakt.php" method="POST" onSubmit="return ">
