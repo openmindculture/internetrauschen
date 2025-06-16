@@ -11,6 +11,7 @@
 <url><a href="https://internetrauschen.de/erich-cruising-barkeeper.php">https://internetrauschen.de/erich-cruising-barkeeper.php</a></url>
 <url><a href="https://internetrauschen.de/gedicht-garten.php">https://internetrauschen.de/gedicht-garten.php</a></url>
 <url><a href="https://internetrauschen.de/ki-schweine-schwall-slop-kontern.php">https://internetrauschen.de/ki-schweine-schwall-slop-kontern.php</a></url>
+<url><a href="https://internetrauschen.de/kontakt.php">https://internetrauschen.de/ki-schweine-schwall-slop-kontern.php</a></url>
 <url><a href="https://internetrauschen.de/markov-ketten-satz-bau.php">https://internetrauschen.de/markov-ketten-satz-bau.php</a></url>
 <url><a href="https://internetrauschen.de/sitemap.xml">https://internetrauschen.de/sitemap.xml</a></url>
 <url><a href="https://internetrauschen.de/sitemap.xml.php">https://internetrauschen.de/sitemap.xml.php</a></url>
