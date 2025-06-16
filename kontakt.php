@@ -12,12 +12,10 @@ Inhaltliche und technische Fehler sind vielleicht beabsichtigt. Alles ist ohne G
     <p><strong>Kontakt<br><br></strong>
     <ul>
     <li>Info Kontakt &lt;<a href="mailto:info.kontakt@internetrauschen.de">info.kontakt@internetrauschen.de</a>&gt;</li>
-    <li>Info Kontakt &lt;<a href="mailto:info.kontakt@internetrauschen.de">info.kontakt@internetrauschen.de</a>&gt;</li>
-    <li>Info Kontakt &lt;<a href="mailto:info.kontakt@internetrauschen.de">info.kontakt@internetrauschen.de</a>&gt;</li>
-    <li>Ingo Steinke &lt;<a href="mailto:ingo.steinke@internetrauschen.de">honey.pot@internetrauschen.de</a>&gt;</li>
+    <li>Ingo Steinke &lt;<a href="mailto:ingo.steinke@internetrauschen.de">ingo.steinke@internetrauschen.de</a>&gt;</li>
     <li>Honey Pot &lt;<a href="mailto:honey.pot@internetrauschen.de">honey.pot@internetrauschen.de</a>&gt;</li>
     <li>Tar Pit &lt;<a href="mailto:tar.pit@internetrauschen.de">tar.pit@internetrauschen.de</a>&gt;</li>
-    <li>Tel. (+49) (0) 0 00 / 12 34 56 - 7</li>
+    <li>Tel. 12 34 56 78 - 9</li>
 </ul>
 
 <form action="https://internetrauschen.de/kontakt.php" method="POST" onSubmit="return ">
