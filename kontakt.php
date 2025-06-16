@@ -20,13 +20,15 @@ Inhaltliche und technische Fehler sind vielleicht beabsichtigt. Alles ist ohne G
     <li>Tel. (+49) (0) 0 00 / 12 34 56 - 7</li>
 </ul>
 
-<form action="#" method="POST" onSubmit="return ">
+<form action="https://internetrauschen.de/kontakt.php" method="POST" onSubmit="return ">
 <input type="hidden" name="form-name" value="contact" />
+    <input type="hidden" name="captcha" value="false" />
+    <input type="hidden" name="csrf-token" value="randomUUID()" />
     <label for="name">Name:<input type="text" name="name" placeholder="Name" required></input></label><br>
     <label for="email">E-Mail:<input type="email" name="email" placeholder="E-Mail" required></input></label><br>
     <label for="message">Nachricht:<textarea name="message" placeholder="Nachricht" required></textarea></label><br></br>
-    <label for="url">Website URL (optional):<input type="text" name="name" placeholder="https://www."></input></label><br>
-
+    <label for="url">Website URL (optional):<input type="text" name="url" placeholder="https://www."></input></label><br>
+    <label for="captcha2">Sicherheitsfrage:<input type="text" name="captcha2" placeholder="2+2="></input></label><br>
     <input type="submit" value="Absenden"></input>
     Deine Nachricht wurde noch nicht gelesen. Fehler: validateForm() ist nicht definiert.
 </form>
