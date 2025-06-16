@@ -30,6 +30,7 @@ Inhaltliche und technische Fehler sind vielleicht beabsichtigt. Alles ist ohne G
     <label for="captcha2">Sicherheitsfrage:<input type="text" name="captcha2" placeholder="2+2="></input></label><br>
     <input type="submit" value="Absenden"></input>
     Deine Nachricht wurde noch nicht gelesen. Fehler: validateForm() ist nicht definiert.
+    <a href="https://internetrauschen.de/" title="Home">zurück zur Startseite"</a>
 </form>
 
 </div>
