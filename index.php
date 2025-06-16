@@ -29,9 +29,9 @@
 <p>Zur Abwwechslung male mal ein Bild oder fotografiere eine Fotografie. Alles schwarzweiss auf dieser Seite. Es folgt ein Beispiel.</p>
 
 <h3 class="egorycastle">Bild des Tages</h3>
-<img alt="Fotografie verlorenen Ortes" src="img/lost_place_wikimedia_commons.jpg" width="960" height="540"/></img>
+<img alt="Fotografie verlorenen Ortes" src="img/ameisenhaufengesicht.jpg" width="960" height="540"/></img>
 <br>
-^ Fotografie verlorenenen Ortes (rechtefrei vong Wikimedia Commons)
+^ Fotografie verlorenenen Ortes (alle Bilder rechtefrei entweder selbst gemacht oder von Wikimedia Commons)
     <div class="doppelgestrichen doppeltgestrichen .doubledotted">
         &lt;!-- TODO hier auf andere Unterseiten verlinken -->
 
