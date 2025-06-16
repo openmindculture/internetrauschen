@@ -57,14 +57,12 @@
 
   <h2>Wortwolke</h2>
     <ul>
-        <li><a href="/sozial-medial-profil-neurose.php">sozial—mediale Profilneurose</a></li>
-        <li><a href="/amerika-usa-ki.php">Amerikanische Produkte aus den USA</a></li>
-        <li><a href="/gedicht-garten.php">Gedicht — Garten</a></li>
-        <li><a href="/ki-schweine-schwall-slop-kontern.php">KI-Schwall-kontern</a></li>
-        <li><a href="/arbeit-reise-tage.php">Montage</a></li>
-        <li><a href="/dienstag-gleis-dreieck.php">Dienstag — Gleis — Dreieck</a></li>
+
+        <li><a href="https://internetrauschen.de/echtes-authentisches-zine.php">Authentisches Zine</a></li>
         <li><a href="https://internetrauschen.de/">Internetrauschen</a></li>
+        <url><a href="https://internetrauschen.de/kontakt.php">Kontakt</a></url>
         <li><a href="https://internetrauschen.de/sitemap.xml.php">Sitemap</a></li>
+        <li><a href="/sozial-medial-profil-neurose.php">sozial—mediale Profilneurose</a></li>
     </ul>
 
 </div>
