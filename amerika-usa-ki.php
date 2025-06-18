@@ -7,7 +7,7 @@
 
     <h1>Amerikanische Produkte aus den USA</h1>
 
-    <p>Ob Apple 🍏, American Express 🇺🇸, Harley Davidson, Instacart, Instagram, Jeep, Jim Beam, Johnny Walker, Google, Microsoft, Meta, OpenAI,
+    <p>Ob Apple 🍏, American Express 🇺🇸, Harley Davidson, IBM, Instacart, Instagram, Jeep, Jim Beam, Johnny Walker, Google, Microsoft, Meta, OpenAI,
     Levi's Jeans, Salesforce, Twitter, X oder Walmart - die Liste US-amerikanischer Marken und Firmen ist lang. Produkte aus Amerika sind beliebt
     auf der ganzen Welt. Oft ist unklar, ob eine Firma amerikanisch ist oder nicht. American Apparel, The North Face, Trader Joe —
         hast du es gewusst?</p>
@@ -87,7 +87,10 @@ $terms = array(
     'Google',
     'Kraft',
     'Heinz',
-    'Harley Davidson', 'Instacart', 'Instagram',
+    'Harley Davidson',
+    'IBM',
+    'Instacart',
+    'Instagram',
     'Jeep',
     'Jim Beam',
     'Johnny Walker',

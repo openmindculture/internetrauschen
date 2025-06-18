@@ -2,14 +2,14 @@
 <?php $get_the_title = 'KI-Schweineschwall (KI-Slop) kontern'; ?>
 <?php include_once('includes/header.php') ?>
 <div class="container-fluid">April 2025, aktualisiert im Juni 2025</div>
-    <p>Der maniuplative und widersprüchliche Kommunikationsstil vieler KI-Chatbots fördert nicht gerade das Vertrauen in sie – ganz im Gegenteil!</p>
+    <p>Der maniuplative und widersprüchliche Kommunikationsstil vieler KI-Chatbots fördert nicht gerade das Vertrauen in sie – ganz im Gegenteil! Generative KI ist synonym mit Verschlimmbesserung, wenn du mich fragst. Warum? Ich weiss gar nicht, wo ich anfangen soll.</p>
 
 <h2>Paket-Halluzinationen</h2>
 <p>Kunstvolle Intelligenz ist menschlich, jedoch die maschinelle halluziniert ohne Charme, landet Zufallstreffer, die die Menschen verblenden, baut aber Fehler und unheilvolle Details ein, die neue Gefahren erschaffen als Einfallstor missliebiger Gauner. So produzieren Hacker zu halluzinierten Softwarepaketen, die es gar nicht gibt, echteEntsprechungen, um schadhaften Code zu verbreiten.</p>
 
     <h2>Rückkoppelung unhinterfragt geteilten Halbwissens</h2>
 
-    <p>Slop: Schmutzwasser, Schweinefrass, oder Schweinetrank, wie der vielleicht auch schon KI-betriebene Google-Translator formulierte, sind deutsche Begriffe für das englische Wort Slop, das auch schwappen bedeutet und das als "AI-Slop", also quasi KI-Schweinefraß die minderwertigen Erzeugnisse KI-generierter Texte und Bilder bezeichnet. Ungefragt und unhinterfragt geteiltes Halbwissen tritt eine Lawine von fragwürdigen Inhalten los, die alle voneinander abschreiben und Gerüchte verbreiten. So war es schon immer, aber KI macht alles noch schlimmer.</p>
+    <p>Slop: Schmutzwasser, Schweinefrass, oder Schweinetrank, wie der vielleicht auch schon KI-betriebene Google-Translator formulierte, sind deutsche Begriffe für das englische Wort Slop, das auch schwappen bedeutet und das als "AI-Slop", also quasi KI-Schweinefraß die minderwertigen Erzeugnisse KI-generierter Texte und Bilder bezeichnet. Ungefragt und unhinterfragt geteiltes Halbwissen tritt eine Lawine von fragwürdigen Inhalten los, die alle voneinander abschreiben und Gerüchte verbreiten. So war es schon immer, aber KI macht alles noch schlimmer. Spulen wir einen Moment zurück und schauen, wie wir überhaupt in diesem Schlamassel gelandet sind.</p>
 
 <h2>Gedicht gegen generative KI</h2>
 <p><strong>
@@ -37,6 +37,13 @@
     <p>Schlussendlich bleibt fast immer ein wichtiges Detail vorenthalten, das erst auf Nachfrage entlockt wird, um Suchtverhalten wie bei Social Media aufzubauen. Standardfloskeln laden zu weiteren Anfragen ein: Gern geschehen! Wenn du noch Hilfe brauchst bei der Formulierung von solchen Texten oder einer Textvorlage für deine Masterarbeit – melde dich einfach. Viel Erfolg beim Bestehen deiner Abschlussprüfung! 🚀
 
     <p>Außer dem schleimigen Tonfall fallen weitere Eigenheiten auf, die stutzig werden lassen. Es sind nicht die Emojis, die Menschen ja auch verwenden, aber typographische Anführungszeichen und langgezogene Gedankenstriche, die auf keiner Tastatur zu finden sind, und ungewöhnliche Verben oder sinnentfremdete Formulierungen wie hineintauchen (delve into) oder praktikabel (actionable) wobei gerade "actionable" aus dem Rechtswesen entlehnt wurde und ähnlich wie Werte (value) vor allem als Alarmzeichen (red flag) dafür steht, Nutzer nachhaltig an der Nase herumzuführen.
+
+<h2>Gratisangebote skeptisch bewerten</h2>
+<p>Wenn ein System wie ChatGPT oder Gemini „so gut sein soll“, aber gleichzeitig kostenlos oder billig verfügbar ist, stellt sich berechtigterweise die Frage:
+
+    Wie kann das was taugen – und für wen arbeitet das eigentlich?
+
+</p>
 
     <p>Sehr gern – freut mich richtig, dass das gepasst hat! 🧠💥
     <p>Wenn du daraus einen Blogpost, eine Illustration oder Social-Media-Kampagne machen willst: Sag Bescheid – ich helfe dir gern bei Tonalität, Aufbau oder weiterem Feinschliff. Immer gerne – und viel Erfolg bei allem, was du vorhast! 🙌 Meld dich, wenn du wieder Input brauchst – ob technisch, kreativ oder kritisch. Wenn du willst, schreibe ich dir gern ein Beispiel für eine Blogstruktur mit provokantem Einstieg und inhaltlicher Tiefe, die SEO und Aufmerksamkeit vereint. Sehr gerne – freut mich, wenn es hilfreich war! Wenn du später noch konkrete Titelideen, Gliederungsvorschläge oder SEO-Optimierungen für deine Listenartikel brauchst – einfach melden. Viel Erfolg beim Schreiben und Inspirieren! ✍️📚✨
