@@ -29,7 +29,13 @@
 
 <p>Internetrauschen konnte sich mit ersten handgeschriebenen Artikeln als Retro-Fanzine behaupten, ist also kein reiner Zufallsgenerator. Internetrauschen ist aber mehr als das, mehr als Kunst, sondern ein interaktives Experiment, das sich allen Regeln von Kunst, Wissenschaft oder Marketing widersetzt und in keine Schublade zu pressen ist. Internetrauschen ist ein bisschen wie ein Ameisenhaufen, ein Gewimmel aus Sand und kleinen Wesen, die sich immer wieder anders zusammensetzen und doch markante Strutkuren schaffen, deren paradoxes Markenzeichen einem kleinen Krater gleicht, aus dem niemals ein echter Vulkan ausbricht, der aber auf manchen Fotos aussieht wie ein Gesicht.</p>
 
-<o></o><p>Als ob auf dem Bild ein Gesicht zu sehen sei, dachte ich, dabei ist es ein Foto eines kleinen Ameisenhaufens.
+<h3 class="egorycastle">Ameisenhaufengesicht</h3>
+<a href="img/ameisenhaufengesicht.jpg"><img alt="Fotografie verlorenen Ortes" src="img/ameisenhaufengesicht.jpg" width="96" height="54"/></img></a>
+<br>
+^ Fotografie verlorenenen Ortes (alle Bilder rechtefrei entweder selbst gemacht oder von Wikimedia Commons)
+<br><br>
+
+<o></o><p>Als ob auf dem Bild ein Gesicht zu sehen sei, dachte ich, dabei ist es ein kleines Foto eines kleinen Ameisenhaufens.
 <p>Sozusagen ein Ameisenhaufengesicht ...
 
 <g3><h3>Ameisenhaufengedicht</h3>
@@ -47,12 +53,9 @@
             mich ansah.<br>
         </strong></p>
 
-    <h3 class="egorycastle">Ameisenhaufengesicht</h3>
-    <a href="img/ameisenhaufengesicht.jpg"><img alt="Fotografie verlorenen Ortes" src="img/ameisenhaufengesicht.jpg" width="96" height="54"/></img></a>
-    <br>
-    ^ Fotografie verlorenenen Ortes (alle Bilder rechtefrei entweder selbst gemacht oder von Wikimedia Commons)
 
-    <br><br><br>
+
+    <br><br>
     <h2>Wichtige Hinweise!</h2>
     <p>Internetrauschen macht sich keinerlei solcher Erzählungen, oder Theorien, zu eigen, sondern möchte mit ihrer Widergabe, Verfremdung und Erfindung von Narrativen und Gedichten inspirieren und zu eigenem kritischem und kreativem Denken anregen. as Internetrauschen macht sich jedwede Denkweise, Narrative oder Theorien nicht zu eigen, sondern möchte, ganz im Gegenteil, dazu einladen, selbst zu denken, kritisch zu denken, kreativ, künstlerisch und wissenschaftlich zu denken. Auch Sprachliche Unebenheiten dienen eben dazu, zu hinzusehen ^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H<br
                 zum genaueren Hinsehen <del><strike>&lt;strike&gt;about accesskey&lt;/strike&gt;</strike></del>&lt;/p&gt;
