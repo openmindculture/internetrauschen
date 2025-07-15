@@ -48,7 +48,7 @@
         </strong></p>
 
     <h3 class="egorycastle">Ameisenhaufengesicht</h3>
-    <img alt="Fotografie verlorenen Ortes" src="img/ameisenhaufengesicht.jpg" width="960" height="540"/></img>
+    <a href="img/ameisenhaufengesicht.jpg"><img alt="Fotografie verlorenen Ortes" src="img/ameisenhaufengesicht.jpg" width="96" height="54"/></img></a>
     <br>
     ^ Fotografie verlorenenen Ortes (alle Bilder rechtefrei entweder selbst gemacht oder von Wikimedia Commons)
 
