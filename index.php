@@ -1,4 +1,5 @@
 <?php include_once('includes/header.php') ?>
+<h2>Internetrauschen als unabhängiges Internet-Zine</h2>
   <p>Internetrauschen.de ist eine umlautlose, internetrauschende, Internetnoise-inspirierte, interaktive Installation, die auch als Weblog oder (Maga-) Zine gelesen werden kann. Internetrauschend ist kontinuierlich unter Konstruktion. Internetrauschen ist ein <a
   href="/echtes-authentisches-zine.php">echtes authentisches Zine</a>, so zu sagen, Kunst, kein Konsum,
   kostenlos, werbefrei und ohne kommerzielle Hintergedanken. Internetrauschen hat sich als unabhängiges Internet-Zine (k)einen Namen gemacht.</p>
