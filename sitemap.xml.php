@@ -20,8 +20,8 @@
 <url><a href="https://internetrauschen.de/unwort-barrierearm-nachhaltig.php">https://internetrauschen.de/unwort-barrierearm-nachhaltig.php</a></url>
     <?php /* TODO add random content */ ?>
         <h2>P.S. Egänzung/Nachtrag)</h2>
-        <url><a href="/einstellung-weg-ziel"></a></url>
-        <url><a href="/erich-cruising-barkeeper">erich-cruising-barkeeper</a></url>&lgt;!-- nein, den hatten wir doch schon!
+        <url><a href="/einstellung-weg-ziel.php">einstellung-weg-ziel</a></url>
+        <url><a href="/erich-cruising-barkeeper.php">erich-cruising-barkeeper</a></url>&lgt;!-- nein, den hatten wir doch schon!
         &amp;
         <ulr><a href="/nagel-pilz-life-style.php">nagel-pilz-life-style.php</a>></ulr>
         <ulr><a href="/schloss.php">schloss.php</a>></ulr>
