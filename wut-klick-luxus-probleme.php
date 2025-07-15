@@ -2,7 +2,6 @@
 $get_the_title; ?>
 <?php $get_the_title = 'Wut-Klicks und Luxusprobleme'; ?>
 <?php include_once('includes/header.php') ?>
-    <h1>Wut-Klicks und Luxusprobleme</h1>
 
     <p>Ich bin nicht chronisch krank, nicht inhaftiert im Gefängnis und habe keine kleinen Kinder. Warum hat dennoch jeder Tag gefühlt zu wenig Stunden um das zu tun, was man kann, soll und möchte? Warum fällt selbst aufräumen und putzen schwer? Warum ist es so eine große Herausforderung, einen neuen Schreibtisch oder neue Gardinen anzuschaffen, wenn andere Menschen einfach das billigste im nächsten Baumarkt kaufen?</p>
 <h2>Wozu?</h2>

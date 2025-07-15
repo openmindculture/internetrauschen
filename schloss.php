@@ -2,7 +2,6 @@
 $get_the_title; ?>
 <?php $get_the_title = 'Schloss'; ?>
 <?php include_once('includes/header.php') ?>
-    <h1>Schloss</h1>
 
     <p>Das Schloss steht beispielhaft für das künstlerische Konzept des Internetrauschens: mehrdeutige Begriffe, zeitlose Bilder, verlassene Orte, kontrastreiche Retro-Optik von eigenen Schnappschüssen und frei verfügbarem Wikipedia-Material und ebensolchenn eklektischen Texten,Textfragmenten und Gedichten, die menschlich erstellt und maschinell veunstaltet wurden, um ungewohnte Kombinationen und erstaunliche Perspektiven zu zeigen und zu neuen Ideen anzuregen.</p>
 

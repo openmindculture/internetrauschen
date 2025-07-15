@@ -2,7 +2,6 @@
 $get_the_title; ?>
 <?php $get_the_title = 'Sicherheitscheck absolvieren'; ?>
 <?php include_once('includes/header.php') ?>
-    <h1>Sicherheitscheck absolvieren</h1>
 
     <p>Ein zusätzlicher Schritt, ein Fuß in der Tür, oder einer, der sich mir in den Weg stellt und mir den Weg versperrt bis ich ein Rätsel gelöst habe. Warum muss ich diesen Sicherheitscheck absolvieren? Was ist des Rätsels Lösung? Und können Bots die Captcha-Aufgaben nicht inzwischen viel leichter lösen als Menschen, die regelmäßig daran scheitern oder frustriert ins Schwitzen geraten?</p>
 

@@ -2,7 +2,6 @@
 $get_the_title; ?>
 <?php $get_the_title = 'Nagelpilzlifestyle'; ?>
 <?php include_once('includes/header.php') ?>
-    <h1>Nagelpilzlifestyle</h1>
 
     <p>Nagelpilz-Lifestyle gehört zu Deutschland wie Amtsschimmel und Leitkultur. Was damit wirklich gemeint ist, ist dass viele Menschen gesundheitliche Probleme, die weder akut schmerzen noch sofort sichtbar sind, über Jahre ignorieren.
         Ob aus Scham, Bequemlichkeit oder weil sie in einem überregulierten Gesundheitssystem zwischen Zuständigkeiten und Selbstbeteiligungen den Überblick verloren haben.</p>

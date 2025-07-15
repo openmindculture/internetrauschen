@@ -2,7 +2,6 @@
 $get_the_title; ?>
 <?php $get_the_title = 'Tote-Internet-Theorie'; ?>
 <?php include_once('includes/header.php') ?>
-    <h1>Tote-Internet-Theorie</h1>
 
     <p>Wenn man online Artikel liest, meint man manchmal, das Internet sei ein riesiger Mülleimer mit automatischer Recycling-Funktion geworden.. Die Theorie des "toten Internets" hat nichts mit "Tote Bag"-Taschen zu tun, sondern mit dem Tod im übertragenen Sinne, sowie sogenannte tote Innenstädte unbelebt wirken wenn nach Ladenschluss die Bordsteine hochgeklappt und die Menschen an andere Orte verschwunden sind.</p>
 

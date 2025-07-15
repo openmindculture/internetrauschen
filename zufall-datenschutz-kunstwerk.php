@@ -2,7 +2,6 @@
 $get_the_title; ?>
 <?php $get_the_title = 'Zufall, Datenschutz, Kunstwerk?'; ?>
 <?php include_once('includes/header.php') ?>
-    <h1>Internetrauschen: Zufall, Datenschutz, Kunstwerk?</h1>
 
     <p>Wir können uns den sprichwörtlichen Aluhut aufsetzen und unsere Treuekarten vom Supermarkt gegen eine Alukarte im Portemonnaie tauschen, Werbeblocker installieren und nie wieder online einkaufen. Aber wir müssten wohl schon ein Haus im Wald oder eine Zelle im Kloster beziehen oder in einer radikalen Glaubensgemeinschaft aufwachsen, um keinen digitalen Datenschatten zu hinterlassen, der stets vom Auge des Palantir verfolgt wird. Nicht ohne Grund haben sie diese Firma so genannt. Aber wer sich der allgegenwärtigen Überwachung zu sehr entzieht, macht sich vielleicht verdächtig, wenn berechtigte Sicherheitsinteressen, die ja durchaus dem Gemeinwohl dienen, nach ungewöhnlichen Verhaltensweisen oder unstimmigen technischen Daten suchen.</p>
 
