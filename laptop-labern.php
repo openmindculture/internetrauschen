@@ -24,6 +24,7 @@ $get_the_title; ?>
     <br>
 <br>
     <img alt="Fotografie eines modernen Schriebtischarbeitsplatzes" src="img/maus-schreibtisch.jpg" width="960" height="540"/></img>
+<br>Fotografie eines modernen Schriebtischarbeitsplatzes (Symbolbild)
 <br><br>
 
 <?php include_once('includes/footer.php') ?>
