@@ -51,8 +51,17 @@
     <br>
     ^ Fotografie verlorenenen Ortes (alle Bilder rechtefrei entweder selbst gemacht oder von Wikimedia Commons)
 
+    <br><br><br>
+    <h2>Wichtige Hinweise!</h2>
+    <p>Internetrauschen macht sich keinerlei solcher Erzählungen, oder Theorien, zu eigen, sondern möchte mit ihrer Widergabe, Verfremdung und Erfindung von Narrativen und Gedichten inspirieren und zu eigenem kritischem und kreativem Denken anregen. as Internetrauschen macht sich jedwede Denkweise, Narrative oder Theorien nicht zu eigen, sondern möchte, ganz im Gegenteil, dazu einladen, selbst zu denken, kritisch zu denken, kreativ, künstlerisch und wissenschaftlich zu denken. Auch Sprachliche Unebenheiten dienen eben dazu, zu hinzusehen ^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H<br
+                zum genaueren Hinsehen <del><strike>&lt;strike&gt;about accesskey&lt;/strike&gt;</strike></del>&lt;/p&gt;
+    <br>hervorzurufen. Wie können wir diesen Abschnit tn och besser vormulieren?
+    <br>^ so wird eure Aufmerksamkeit getriggert und das routinierte Denken verwirrt!</p>
+
+
+
     <div class="doppelgestrichen doppeltgestrichen .doubledotted">
-        &lt;!-- TODO hier auf andere Unterseiten verlinken -->
+        &lt;!-- hier auf andere Unterseiten verlinken -->
 
   <h2>Wortwolke</h2>
     <ul>

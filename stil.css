@@ -40,6 +40,11 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+strike,del {
+    text-decoration: line-through;
+
+}
 .doppelgestrichen {
     border-style: dotted 1 silver;
     padding: 1rem;
