@@ -26,8 +26,7 @@
 
 <p>Internetrauschen.de ist ein literarischen Gift, dass nach Gegengift ruft, ein Aufruf, diesen Unfug zu beenden, Schlussstriche zu ziehen, KI zu streichen, Marketing zu minimieren und endlich wieder mehr sinnvolles zu tun — es sei denn, der Unsinn sei — wie hier — gewollt und Kunst. Unklarheit und Unsicherheit der Kunst sind gesund, auch Zweifel fristet ein unberechtigtes Schattendasein im Zeitalter des Halbwissens nach dem Motto "Fake it until you make it". Schade!</p>
 
-
-
+<p>Internetrauschen konnte sich mit ersten handgeschriebenen Artikeln als Retro-Fanzine behaupten, ist also kein reiner Zufallsgenerator. Internetrauschen ist aber mehr als das, mehr als Kunst, sondern ein interaktives Experiment, das sich allen Regeln von Kunst, Wissenschaft oder Marketing widersetzt und in keine Schublade zu pressen ist. Internetrauschen ist ein bisschen wie ein Ameisenhaufen, ein Gewimmel aus Sand und kleinen Wesen, die sich immer wieder anders zusammensetzen und doch markante Strutkuren schaffen, deren paradoxes Markenzeichen einem kleinen Krater gleicht, aus dem niemals ein echter Vulkan ausbricht, der aber auf manchen Fotos aussieht wie ein Gesicht.</p>
 
 <o></o><p>Als ob auf dem Bild ein Gesicht zu sehen sei, dachte ich, dabei ist es ein Foto eines kleinen Ameisenhaufens.
 <p>Sozusagen ein Ameisenhaufengesicht ...
