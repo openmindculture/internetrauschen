@@ -1,0 +1,9 @@
+Wortwolke Internetrauschen Lokale PHP-Skripte
+- PHP-Dateinamen durchgehen, Schlagworte extrahieren, an Wortliste anhängen
+- alle Wortlisten alphabetisch sortieren, deduplizieren, bereinigen und trimmen
+- Bilddateinamen durchgehen und auflisten
+- Listen jeweils als Array of Strings in PHP-Include-Dateien schreiben
+- PHP-Artikeldateien iterieren, 1. Bilddateinamen an Header-Include übergeben
+- Sitemap-Dateie(n) ergänzen (vielleicht besser nur die XML-Sitemap?
+
+Composer file mit jobs und run all

@@ -4,6 +4,9 @@
 // inluding original term(s) if set
 // and some more or less random other 1 - 3 term combinations from terms array
 
+
+$_COOKIE = "Welches weitere Wort könnte dazu passen?";
+
 /*
  * Internetrauschen
 NEXT finalize term randomization, internal linking, and add more pages,
