@@ -34,7 +34,7 @@
 <p>Internetrauschen konnte sich mit ersten handgeschriebenen Artikeln als Retro-Fanzine behaupten, ist also kein reiner Zufallsgenerator. Internetrauschen ist aber mehr als das, mehr als Kunst, sondern ein interaktives Experiment, das sich allen Regeln von Kunst, Wissenschaft oder Marketing widersetzt und in keine Schublade zu pressen ist. Internetrauschen ist ein bisschen wie ein Ameisenhaufen, ein Gewimmel aus Sand und kleinen Wesen, die sich immer wieder anders zusammensetzen und doch markante Strutkuren schaffen, deren paradoxes Markenzeichen einem kleinen Krater gleicht, aus dem niemals ein echter Vulkan ausbricht, der aber auf manchen Fotos aussieht wie ein Gesicht.</p>
 
 <h3 class="egorycastle">Ameisenhaufengesicht</h3>
-<a href="img/ameisenhaufengesicht.jpg"><img alt="Fotografie verlorenen Ortes" src="img/ameisenhaufengesicht.jpg" width="96" height="54"/></img></a>
+<a href="img/ameisenhaufengesicht.jpg"><img alt="Fotografie verlorenen Ortes" src="img/ameisenhaufengesicht.jpg" width="288" height="162"/></img></a>
 <br>
 ^ Fotografie verlorenenen Ortes (alle Bilder rechtefrei entweder selbst gemacht oder von Wikimedia Commons)
 <br><br>
